@@ -41,5 +41,5 @@ Google BigQuery: Motor de almacenamiento y procesamiento SQL.
 Google Cloud Storage: Almacenamiento de archivos fuente (CSV).
 GoogleSQL: Dialecto para transformaciones y modelado.
 Cómo usar este repositorio
-Los scripts SQL de creación se encuentran en la carpeta /sprint3
+Los scripts SQL de creación se encuentran en la carpeta Sprint3.pdf
 El esquema de datos completo se puede consultar mediante INFORMATION_SCHEMA en el proyecto sprint3-analytics-reneb
