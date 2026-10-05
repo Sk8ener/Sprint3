@@ -49,3 +49,4 @@ GoogleSQL: Dialecto para transformaciones y modelado.
 ### Cómo usar este repositorio
 Los scripts SQL de creación se encuentran en la carpeta Sprint3.pdf
 El esquema de datos completo se puede consultar mediante INFORMATION_SCHEMA en el proyecto sprint3-analytics-reneb
+así como en el archivo sprint3.sql.
